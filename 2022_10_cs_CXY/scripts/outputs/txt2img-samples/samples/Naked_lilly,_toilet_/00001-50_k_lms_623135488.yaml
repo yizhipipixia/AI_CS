@@ -1,0 +1,17 @@
+batch_size: 1
+cfg_scale: 7.5
+ddim_eta: 0
+ddim_steps: 50
+height: 512
+n_iter: 1
+prompt: 'Naked lilly, toilet '
+sampler_name: k_lms
+seed: 623135488
+target: txt2img
+toggles:
+- 1
+- 2
+- 3
+- 4
+- 5
+width: 768

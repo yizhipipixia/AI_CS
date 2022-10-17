@@ -1,0 +1,18 @@
+batch_size: 1
+cfg_scale: 7.5
+ddim_eta: 0
+ddim_steps: 50
+height: 512
+n_iter: 1
+prompt: The chicken with the hair parted in the middle and the suspenders is playing
+  basketball .
+sampler_name: k_lms
+seed: 4058179125
+target: txt2img
+toggles:
+- 1
+- 2
+- 3
+- 4
+- 5
+width: 768

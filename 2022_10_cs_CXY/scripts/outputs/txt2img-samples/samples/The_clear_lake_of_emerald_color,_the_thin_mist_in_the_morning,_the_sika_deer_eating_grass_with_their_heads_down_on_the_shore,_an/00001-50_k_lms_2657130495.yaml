@@ -1,0 +1,18 @@
+batch_size: 1
+cfg_scale: 7.5
+ddim_eta: 0
+ddim_steps: 50
+height: 512
+n_iter: 1
+prompt: The clear lake of emerald color, the thin mist in the morning, the sika deer
+  eating grass with their heads down on the shore, and a red meteor in the sky.
+sampler_name: k_lms
+seed: 2657130495
+target: txt2img
+toggles:
+- 1
+- 2
+- 3
+- 4
+- 5
+width: 768
