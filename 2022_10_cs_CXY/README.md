@@ -1,4 +1,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/altryne/sd-webui-colab/blob/main/Stable_Diffusion_WebUi_Altryne.ipynb)
+使用方法参考csdn: https://blog.csdn.net/weixin_43134049/article/details/126962304?utm_medium=notify.im.blog_audit.a&username=weixin_43134049
 
 # [Installation](https://github.com/hlky/stable-diffusion/wiki/Installation)
 
